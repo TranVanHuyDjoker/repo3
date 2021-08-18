@@ -12,7 +12,6 @@ public class HM {
         hm.put(3, "C++");
         hm.put(2, "PHP");
         hm.put(4, "Python");
-
         System.out.println(hm);
 
         for(Map.Entry<Integer, String> entry : hm.entrySet()){

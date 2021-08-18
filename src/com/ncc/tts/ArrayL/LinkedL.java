@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 // update & delete
-public class TaoLinked {
+public class LinkedL {
     public static void main(String[] args) {
 
         LinkedList<String> list = new LinkedList<String>();

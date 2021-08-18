@@ -9,8 +9,8 @@ public class HS {
         setA.add("Python");
         setA.add("Java");
         setA.add("PHP");
-        System.out.println("Số phần tử của setA: " + setA.size());
-        System.out.println("Các phần tử của setA: ");
+        System.out.println("Số phần tử: " + setA.size());
+        System.out.println("Các phần tử : ");
 
         for (String element : setA) {
             System.out.println(element);
